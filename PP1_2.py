@@ -3,14 +3,19 @@
 
 
 def q1():
-  name = "Alex"
+  name="Alex"
   print (name)
 
 def q2():
-  #Write Assignment code here
+  num1= int("3")
+  num2= int("5")
+  num3 = int(2)
+  print (num1+num2+num3)
 
 def q3():
-  #Write Assignment code here
+  num1 = int(21)
+  num2 = int(4)
+  print(num1 // num2)
 
 def q4():
   #Write Assignment code here
