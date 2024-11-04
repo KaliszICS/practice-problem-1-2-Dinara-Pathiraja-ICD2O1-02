@@ -1,4 +1,9 @@
-
+'''
+    Lesson: Variables and Data Types
+    Author: Dinara Pathiraja
+    Date Created: Sept 16, 2024
+    Date Last Modified: Nov 4, 2024
+'''
 
 
 
