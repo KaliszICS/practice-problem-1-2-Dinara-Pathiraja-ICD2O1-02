@@ -3,7 +3,8 @@
 
 
 def q1():
-  #Write Assignment code here
+  name = "Alex"
+  print (name)
 
 def q2():
   #Write Assignment code here
