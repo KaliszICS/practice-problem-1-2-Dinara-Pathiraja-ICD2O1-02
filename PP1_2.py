@@ -34,7 +34,8 @@ def q5():
   print(word)
 
 def q6():
-  bool1 = "True"
+    bool1 = "True"
+    print(bool1)
 
 def q7():
   num1 = 7
