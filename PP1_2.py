@@ -26,10 +26,10 @@ def q4():
     print(num1 / num2)
 
 def q5():
-    word = "Hello World"
-    print(word)
-    Word = "Goodbye World" 
-    print(word)
+    word1 = "Hello World"
+    print(word1)
+    Word2 = "Goodbye World" 
+    print(word2)
 
 def q6():
     bool1 = "True"
