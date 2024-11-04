@@ -5,8 +5,6 @@
     Date Last Modified: Nov 4, 2024
 '''
 
-
-
 def q1():
     name = "Alex"
     print (name)
