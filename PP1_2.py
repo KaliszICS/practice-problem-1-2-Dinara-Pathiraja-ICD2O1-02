@@ -7,19 +7,19 @@ def q1():
   print (name)
 
 def q2():
-  num1= int("3")
-  num2= int("5")
-  num3 = int(2)
+  num1= 3
+  num2= 5
+  num3 = 2
   print (num1+num2+num3)
 
 def q3():
-  num1 = int(21)
-  num2 = int(4)
+  num1 = 21
+  num2 = 4
   print(num1 // num2)
 
 def q4():
-  num1 = float(6.3)
-  num2=float(3.0)
+  num1 = 6.3
+  num2=3.0
   print(num1/num2)
 
 def q5():
@@ -32,8 +32,8 @@ def q6():
   bool1= "True"
 
 def q7():
-  num1 = int(7)
-  num2= int(2)
+  num1 = 7
+  num2= 2
   print(num1%num2)
 
   
