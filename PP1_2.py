@@ -18,16 +18,23 @@ def q3():
   print(num1 // num2)
 
 def q4():
-  #Write Assignment code here
+  num1 = float(6.3)
+  num2=float(3.0)
+  print(num1/num2)
 
 def q5():
-  #Write Assignment code here
+  word = "Hello World"
+  print(word)
+  Word = "Goodbye World" 
+  print(word)
 
 def q6():
-  #Write Assignment code here
+  bool1= "True"
 
 def q7():
-  #Write Assignment code here
+  num1 = int(7)
+  num2= int(2)
+  print(num1%num2)
 
   
 #DO NOT EDIT ANYTHING AFTER THIS COMMENT
