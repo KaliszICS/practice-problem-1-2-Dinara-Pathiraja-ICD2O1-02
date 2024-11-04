@@ -8,12 +8,12 @@
 
 
 def q1():
-  name="Alex"
+  name = "Alex"
   print (name)
 
 def q2():
-  num1= 3
-  num2= 5
+  num1 = 3
+  num2 = 5
   num3 = 2
   print (num1+num2+num3)
 
@@ -24,7 +24,7 @@ def q3():
 
 def q4():
   num1 = 6.3
-  num2=3.0
+  num2 =3.0
   print(num1/num2)
 
 def q5():
@@ -34,11 +34,11 @@ def q5():
   print(word)
 
 def q6():
-  bool1= "True"
+  bool1 = "True"
 
 def q7():
   num1 = 7
-  num2= 2
+  num2 = 2
   print(num1%num2)
 
   
